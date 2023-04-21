@@ -1,0 +1,12 @@
+
+t@6c3b9ccabf81:~/alx-low_level_programming/0x01-variables_if_else_while# vi 1-last_digit.c
+root@6c3b9ccabf81:~/alx-low_level_programming/0x01-variables_if_else_while# vi 1-last_digit.c
+root@6c3b9ccabf81:~/alx-low_level_programming/0x01-variables_if_else_while# betty 1-last_digit.c
+
+========== 1-last_digit.c ==========
+1-last_digit.c:8: WARNING: line over 80 characters (90)
+1-last_digit.c:23: WARNING: suspect code indent for conditional statements (8, 17)
+1-last_digit.c:27: ERROR: trailing whitespace
+total: 1 errors, 2 warnings, 29 lines checked
+main
+root@6c3b9ccabf81:~/alx-low_level_programmi
